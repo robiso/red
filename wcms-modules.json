@@ -1,0 +1,13 @@
+{
+    "version": 1,
+    "themes": {
+        "red": {
+            "name": "Red",
+            "repo": "https://github.com/robiso/red/tree/master",
+            "zip": "https://github.com/robiso/red/archive/master.zip",
+            "summary": "Red nostalgic variant.",
+            "version": "3.2.0",
+            "image": "https://raw.githubusercontent.com/robiso/red/master/preview.jpg"
+        }
+    }
+}
